@@ -27,3 +27,5 @@ Melalui fungsi ini, data dari file CSV akan dibaca dan dikonversi menjadi DataFr
 ![alt text](image-4.png)
 
 ![alt text](image-5.png)
+
+![alt text](image-6.png)
